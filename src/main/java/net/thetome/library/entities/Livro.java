@@ -1,4 +1,4 @@
-package model;
+package net.thetome.library.entities;
 
 import java.util.List;
 
